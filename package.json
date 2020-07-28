@@ -1,6 +1,6 @@
 {
   "name": "kuminson-cli",
-  "version": "1.0.16",
+  "version": "1.0.17",
   "description": "Simple tool for work",
   "main": "index.js",
   "scripts": {
