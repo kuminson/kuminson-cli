@@ -17,6 +17,7 @@
     "babel-env": "^2.4.1",
     "commander": "^6.0.0",
     "cross-spawn": "^7.0.3",
-    "inquirer": "^7.3.3"
+    "inquirer": "^7.3.3",
+    "moment": "^2.27.0"
   }
 }
