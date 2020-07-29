@@ -12,7 +12,11 @@ $ npm install kuminson-cli -g
 
 ### 1.打Tag号
 
-Tag号格式为<name>-<date>-v<version>
+Tag号格式为
+
+```
+<name>-<date>-v<version>
+```
 
 name 是package.json文件里的name
 
