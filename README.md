@@ -30,13 +30,13 @@ version 是package.json文件里的version，会进行三个级别的累加。
 ll tag [-v | --version][-p | --push][(-r | -remote) <remoteName>][(-m | --message) <message>]
 ```
 
-[-v | --version] 脚手架版本号
+[-v | --version] 脚手架本身版本号
 
 [-p | --push] 推送到远端服务器
 
 [(-r | -remote) <remoteName>] 要推送远端服务器名，默认为origin
 
-[(-m | --message) <message>] tag号的备注，默认名为'add Tag'
+[(-m | --message) <message>] tag号的备注，默认为'change version'
 
 #### 例子
 
