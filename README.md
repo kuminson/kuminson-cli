@@ -27,7 +27,7 @@ version 是package.json文件里的version，会进行三个级别的累加。
 #### 命令
 
 ```
-ll tag [-v | --version][-p | --push][(-r | -remote) <remoteName>][(-m | --message) <message>]
+lk tag [-v | --version][-p | --push][(-r | -remote) <remoteName>][(-m | --message) <message>]
 ```
 
 [-v | --version] 脚手架本身版本号
@@ -41,7 +41,7 @@ ll tag [-v | --version][-p | --push][(-r | -remote) <remoteName>][(-m | --messag
 #### 例子
 
 ```
-$ ll tag -p -m '初始化'
+$ lk tag -p -m '初始化'
 ```
 
 #### 备注
