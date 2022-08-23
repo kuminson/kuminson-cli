@@ -1,6 +1,6 @@
 {
   "name": "kuminson-cli",
-  "version": "1.0.23",
+  "version": "1.0.24",
   "description": "Simple tool for work",
   "main": "index.js",
   "scripts": {
@@ -11,7 +11,7 @@
     "url": "https://github.com/kuminson/kuminson-cli"
   },
   "bin": {
-    "ll": "bin/index.js"
+    "lk": "bin/index.js"
   },
   "keywords": [],
   "author": "",
